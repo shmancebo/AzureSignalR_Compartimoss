@@ -1,0 +1,11 @@
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\bin\Debug\netcoreapp2.0\SignalRClient.Sample.deps.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\bin\Debug\netcoreapp2.0\SignalRClient.Sample.runtimeconfig.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\bin\Debug\netcoreapp2.0\SignalRClient.Sample.runtimeconfig.dev.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\bin\Debug\netcoreapp2.0\SignalRClient.Sample.dll
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.csprojResolveAssemblyReference.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.csproj.CoreCompileInputs.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.AssemblyInfoInputs.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.AssemblyInfo.cs
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\bin\Debug\netcoreapp2.0\SignalRClient.Sample.pdb
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.dll
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\obj\Debug\netcoreapp2.0\SignalRClient.Sample.pdb

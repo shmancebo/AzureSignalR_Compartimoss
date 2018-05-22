@@ -1,0 +1,12 @@
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SignalRClient.Sample
+--content-root=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Home\About.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Home\Contact.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Home\Index.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Shared\Error.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Shared\_Layout.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\_ViewImports.cshtml
+--file=c:\users\shernandez\Source\Repos\SignalRClient.Sample\SignalRClient.Sample\Views\_ViewStart.cshtml

@@ -1,0 +1,11 @@
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.deps.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.dev.json
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.dll
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csprojResolveAssemblyReference.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csproj.CoreCompileInputs.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfoInputs.cache
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfo.cs
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.pdb
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.dll
+c:\users\shernandez\Source\Repos\SignalRClient.Sample\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.pdb
